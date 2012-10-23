@@ -4,17 +4,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.googlecode.redbox-mint</groupId>
 	<artifactId>redbox-nectar-local-curation</artifactId>
-	<version>1.5.1</version>
+	<version>1.5.2</version>
 	<packaging>pom</packaging>
 	<name>ReDBox - Nectar - Local Curation</name>
 	<parent>
 		<groupId>com.googlecode.redbox-mint</groupId>
 		<artifactId>redbox</artifactId>
-		<version>1.5.1</version>
+		<version>1.5.2</version>
 	</parent>
 	<properties>
 		<!-- Used in build -->
-		<redbox.version>1.5.1</redbox.version>
+		<redbox.version>1.5.2</redbox.version>
 		<redbox.location>/opt/redbox</redbox.location>
 		<!-- Runtime values, will replace placeholders in config and control scripts -->
 		<server.port>9000</server.port>
